@@ -16,7 +16,7 @@ class common
     public:
         common();
         virtual ~common();
-         string genes ="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890, .-;:_!\"#%&/()=?@${[]}";;
+         string genes ="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890, .-;:_!\"#%&/()=?@${[]}";
         //void set_genes();
          string target="Ram Lalla Ayenge Mandir Wahin Banayenge- By shiv Bhanu Singh(Jai Shree Ram)";
         //void set_target();
